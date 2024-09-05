@@ -23,19 +23,6 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student from Ma
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-Arvind&theme=dark)
 
-## 📚 Featured Projects
-Here are some of the projects I've worked on that showcase my skills and interests:
-
-- **[Portfolio-Ritesh](https://github.com/Ritesh-Arvind/Portfolio-Ritesh)**: Welcome to my personal portfolio! This repository showcases my projects, skills, and experiences in web development and computer science. Explore to learn more about my work and passions. *(HTML)*
-  
-- **[HTML-Projects](https://github.com/Ritesh-Arvind/HTML-Projects)**: This collection features a variety of basic HTML and CSS projects designed to help beginners understand and practice fundamental web development concepts. Each project serves as a standalone example. *(HTML)*
-  
-- **[snake-game](https://github.com/Ritesh-Arvind/snake-game)**: A simple and classic Snake game implemented in Python using the Pygame library. Control the snake to eat food, grow longer, and avoid colliding with the borders or itself. Easy to play, fun to master! *(Python)*
-  
-- **[Mangalore-Tourist-Guide-Chatbot](https://github.com/Ritesh-Arvind/Mangalore-Tourist-Guide-Chatbot)**: The "Mangalore Tourist Guide Chatbot" is designed to assist visitors with information about Mangalore, including details about parks, restaurants, hotels, transportation, and other attractions. *(JavaScript)*
-
-- **[Tic-Tac-Toe](https://github.com/Ritesh-Arvind/Tic-Tac-Toe)**: Simple Tic Tac Toe game built with JavaScript. *(JavaScript)*
-
 ## 📫 Connect with Me
 - 🌍 Mangalore, India
 - 📧 ritesharvind25@gmail.com
