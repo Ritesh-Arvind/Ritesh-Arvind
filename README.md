@@ -11,9 +11,8 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student from Ma
 
 ## 🛠️ Technologies and Tools
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, Django
-- **Tools:** Git, GitHub, Visual Studio Code, Figma
-- **Other:** Pygame, REST APIs
+- **Backend:** Python
+- **Tools:** Git, GitHub, Visual Studio Code
 
 ## 📈 GitHub Stats
 ![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritesh-Arvind&show_icons=true&theme=dark)
