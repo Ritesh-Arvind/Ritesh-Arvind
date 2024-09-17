@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I’m a Computer Science Engineering student from 
 - **Tools**: Git, GitHub, VS Code  
 
 ## 📊 GitHub Stats  
-![Ritesh's GitHub Stats](link-to-github-stats)  
-![Top Languages](link-to-top-languages)  
-![GitHub Streak](link-to-github-streak)  
+![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritesh-Arvind&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-Arvind&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-Arvind&theme=dark)  
 
 ## 🌍 Connect with Me  
 - 📍 Mangalore, India  
