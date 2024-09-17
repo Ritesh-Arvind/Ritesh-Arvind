@@ -1,31 +1,26 @@
-# Hi, I'm Ritesh! 👋
+# Hi, I'm Ritesh! 👋  
+Welcome to my GitHub profile! I’m a Computer Science Engineering student from Mangalore, passionate about web development, programming, and creative problem-solving. My goal is to build projects that are both functional and aesthetically pleasing. Feel free to explore my repositories!
 
-Welcome to my GitHub profile! I'm a Computer Science Engineering student from Mangalore with a passion for web development, programming, and solving interesting challenges. I enjoy building projects that are both functional and aesthetically pleasing. Feel free to explore my repositories and see what I've been working on!
+## 🌟 About Me  
+- 🎓 Pursuing a Bachelor's degree in Computer Science Engineering.  
+- 💼 Aspiring Full Stack Developer with a focus on user-friendly designs and efficient code.  
+- 🌱 Currently expanding my knowledge in advanced web development and frameworks.  
+- 💬 Open to discussions on Web Development, JavaScript, Python, and Open Source.  
+- 📫 Reach me at: ritesharvind25@gmail.com  
 
-## 🌟 About Me
-- 🎓 Currently pursuing a Bachelor's degree in Computer Science Engineering.
-- 💼 Aspiring Full Stack Developer with a knack for designing intuitive user experiences.
-- 🌱 I’m currently learning advanced web development techniques and frameworks.
-- 💬 Ask me about Web Development, JavaScript, Python, and Open Source.
-- 📫 How to reach me: ritesharvind25@gmail.com
+## 🛠️ Technologies  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Python  
+- **Tools**: Git, GitHub, VS Code  
 
-## 🛠️ Technologies and Tools
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python
-- **Tools:** Git, GitHub, Visual Studio Code
+## 📊 GitHub Stats  
+![Ritesh's GitHub Stats](link-to-github-stats)  
+![Top Languages](link-to-top-languages)  
+![GitHub Streak](link-to-github-streak)  
 
-## 📈 GitHub Stats
-![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritesh-Arvind&show_icons=true&theme=dark)
+## 🌍 Connect with Me  
+- 📍 Mangalore, India  
+- 📧 Email: ritesharvind25@gmail.com  
+- [LinkedIn](link-to-linkedin-profile)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-Arvind&layout=compact&theme=dark)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-Arvind&theme=dark)
-
-## 📫 Connect with Me
-- 🌍 Mangalore, India
-- 📧 ritesharvind25@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ritesharvind)
-
-## ⚡ Fun Fact
-I believe in lifelong learning and constantly strive to enhance my skills and knowledge in the ever-evolving world of technology!
+⚡ **Fun Fact**: I believe in lifelong learning and continually strive to stay at the forefront of technology!
